@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.0.0"
 gem "minima", "~> 2.5"
-gem 'sassc', '~> 2.1.0'
+gem 'sassc', '>= 2.2.1'
 
 group :jekyll_plugins do
   gem "jekyll-scholar"
