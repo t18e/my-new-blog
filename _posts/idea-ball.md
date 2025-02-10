@@ -1,0 +1,25 @@
+---
+title: Idea Ball
+subtitle: A few interesting things I've worked on.
+layout: default
+date: 2025-02-01
+keywords: Startups, Technology
+published: true
+---
+
+I enjoy ideating & building for underserved markets, and I've been lucky to work on [a few interesting ventures](https://t18e.com/blog/idea-ball) during my time at UCL. Here are a few of my favourites:
+
+*   Brade: a plug-and-play accounting tool for salons and other beauty services. We built Brade to make reconciling multi-channel payments, forecasting finances and filing taxes 10x cheaper and 100x easier.
+    
+*   Pubbler: a self-learning writing assistant specifically for Substack writers built on Anthropic's Claude Sonnet model. Despite positive waitlist signalling, it didn't feel right, and I decided not to launch.
+    
+*   REN: a wearable ring for individuals struggling with addictions to discreetly seek help via touch sensor & BLE. REN was designed based on Prochaska and DiClemente’s transtheoretical model of behavioral change.
+    
+*   Soundtrack: a 'song a day' social media platform based on the tried-and-tested streak model by BeReal and Snapchat. I advised on Soundtrack's design, product and on-campus marketing strategies.
+    
+*   Banga: a WhatsApp booking agent for Africa's restaurants. During testing, Banga automated the entire process via WhatsApp, from booking to email confirmations, cutting booking time by 80%.
+    
+*   Almanac: an AMA, Reddit-style forum for student-alumni networking and mentorship. I built this specifically for my alma mater, but it unfortunately didn't materialise.
+    
+
+It's uncertain why some of these didn't succeed as expected. In some cases, it was simply a matter of [inertia](https://adejuyigbe.com/blog/inertia). In other instances, it's quite possible we 'overniched' and were just 1-2 pivots away from getting it right.
