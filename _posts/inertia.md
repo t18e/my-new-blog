@@ -1,0 +1,26 @@
+---
+title: Inertia
+subtitle: People often know what they want and don’t want.
+layout: default
+date: 2024-08-22
+keywords: Startups, People
+published: true
+---
+
+Newton’s first law states that every object will remain at rest or in uniform motion in a straight line unless a force causes the velocity to change. The concept is fairly simple to understand and can be used as a metaphor in several scenarios. 
+
+The interesting thing about inertia is its little downside risk: per Newton’s law, the object doesn’t simply remain unchanged, but does so in a straight line. In most cases, we choose to leave things as is due to the low downside involved (the straight line). Things would be different if inertia involved remaining unchanged — up to a certain point — before a rapid, catastrophic decline. Instead, it’s fairly simple and easy to choose what’s familiar.
+
+My thoughts on this were inspired by a thread on product inertia as an unforeseen occurrence when ideating or launching to market. Product inertia refers to the resistance to change or adopt new products due to familiarity, habit, or perceived effort in switching. It occurs when consumers continue using a product despite better alternatives, often driven by comfort, convenience, or fear of disruption.
+
+The common advice regarding building products is to focus on solving problems. It’s good advice on the surface, but I fear it’s a gross oversimplification. I’ve worked on two products this year which we failed to validate. The first was a restaurant booking tool in a country with manual booking options i.e. call or text to book. The second was an multi-POS accounting solution for salons — their current alternatives are manual reconciliation or expensive outsourcing. We failed to validate not because the products didn’t solve problems, but because people didn’t want them. I’m of the view that people know what they want, and as a result act in their best interest (often, if not always). While there are some cases where people can be convinced to choose something, this often works when they’re at least on the fence or stuck between two options.
+
+In both cases, we explained the value proposition(s) to >50+ businesses each and none seemed interested. Of course, you could say maybe it’s bad timing, poor communication, or anything else. This is likely not the case, if we’re following the view that the simplest explanation is most preferable \[1\]. Instead, people simply didn’t want what we were building and nothing we could’ve done or said short of begging them would’ve worked. This is one of the reasons why I prefer the specificity of the YC ethos “make something people want” to merely products that solve problems \[2\]. We’ve seen time and time again products that defy the age-old problem <> solution framework. But, what ultimately matters is what people want, and more importantly, will pay for. \[3\]
+
+Going forward, my focus now is on low- vs high-friction channels. We spent an unnecessary amount of time trying to contact potential users undesired solutions. I realise one can’t always tell whether a solution is desired or not, but low-friction means less guesswork regarding users’ product inertia. I don’t consider the time spent on this year’s projects a waste, but my preference is always to act with conviction. Low-friction channels enable this in a much shorter timespan. Case in point: I received overwhelmingly negative feedback on Staycey, but quite promising responses with Pubbler.
+
+\[1\] Occam’s razor is a principle often attributed to 14th-century friar William of Ockham. It states that if you have two competing ideas to explain the same phenomenon, you should prefer the simpler one.
+
+\[2\] It’s Y Combinator’s motto and a maxim for innovation in general. The idea is that a) people know what they want, b) if you build something truly awesome, c) users will want it, and hopefully pay you for it.
+
+\[3\] Edit: not just pay for, but rave on about. In other words, [“make something people flaunt”](https://x.com/jsngr/status/1746942332912492896). Here are a few more of my thoughts on [word-of-mouth](https://t18e.com/blog/say-my-name) optimisation.
