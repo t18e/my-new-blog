@@ -101,7 +101,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.0.0)
+  jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-katex
   jekyll-scholar
