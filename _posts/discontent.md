@@ -2,7 +2,7 @@
 title: Discontent
 subtitle: On social media & performance fatigue.
 layout: default
-date: 2024-06-20
+date: 2024-07-20
 keywords: Digital, Technology, Metalinguistics
 published: true
 ---
