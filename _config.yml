@@ -7,8 +7,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-katex
-sass:
-  style: compressed
 katex:
   js_path: "assets"
   rendering_options:
